@@ -20,3 +20,7 @@ __pycache__/
 _mj_*.txt
 calibrate_log.py
 test_mortal_protocol.py
+
+# Mortal 环境与插件包（放 GitHub Release，不放仓库）
+mortal_env/
+latest.zip
