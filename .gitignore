@@ -1,0 +1,22 @@
+# 源码与工程（闭源，不上传）
+MortalMJPlugin/
+
+# 参考用第三方源码
+_doman_src/
+
+# 诊断工具
+_ilprobe/
+_ilprobe2/
+
+# 编译产物副本（原始目录）
+MJ/
+
+# 交接文档与日志
+Chat/
+Error/
+DalamudErrer/
+__pycache__/
+*.log
+_mj_*.txt
+calibrate_log.py
+test_mortal_protocol.py

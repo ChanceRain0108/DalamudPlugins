@@ -1,0 +1,17 @@
+{
+  "Author": "你",
+  "Name": "Mortal MJ Plugin",
+  "InternalName": "MortalMJPlugin",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "用 Mortal AI 打多玛方城战",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": ["mahjong", "mortal", "ai"],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Mortal AI 自动打麻将",
+  "AcceptsFeedback": false
+}
