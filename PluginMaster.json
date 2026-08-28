@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "ChanceRain0108",
+    "Name": "Mortal MJ",
+    "InternalName": "MortalMJPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
+    "ApplicableVersion": "any",
+    "Tags": ["mahjong", "mortal", "ai"],
+    "DalamudApiLevel": 15,
+    "Punchline": "Mortal AI 自动打麻将",
+    "RepoUrl": "https://github.com/ChanceRain0108/MortalMJ",
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ChanceRain0108/MortalMJ/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ChanceRain0108/MortalMJ/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/ChanceRain0108/MortalMJ/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 0
+  }
+]
