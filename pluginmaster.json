@@ -10,7 +10,7 @@
     "DalamudApiLevel": 15,
     "Punchline": "Mortal AI 自动打麻将",
     "RepoUrl": "https://github.com/ChanceRain0108/DalamudPlugins",
-    "IconUrl": "",
+    "IconUrl": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/icon.png",
     "DownloadLinkInstall": "https://github.com/ChanceRain0108/DalamudPlugins/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/ChanceRain0108/DalamudPlugins/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/ChanceRain0108/DalamudPlugins/releases/latest/download/latest.zip",
