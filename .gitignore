@@ -7,6 +7,7 @@ _doman_src/
 # 诊断工具
 _ilprobe/
 _ilprobe2/
+_mc_src/
 
 # 编译产物副本（原始目录）
 MJ/
@@ -23,4 +24,5 @@ test_mortal_protocol.py
 
 # Mortal 环境与插件包（放 GitHub Release，不放仓库）
 mortal_env/
+mortal_env.zip
 latest.zip
