@@ -1,8 +1,8 @@
 {
-  "Author": "你",
+  "Author": "ChanceRain",
   "Name": "Mortal MJ Plugin",
   "InternalName": "MortalMJPlugin",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.3",
   "Description": "用 Mortal AI 打多玛方城战",
   "ApplicableVersion": "any",
   "RepoUrl": "",
