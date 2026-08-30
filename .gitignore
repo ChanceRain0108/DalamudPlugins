@@ -3,6 +3,7 @@ MortalMJPlugin/
 
 # 参考用第三方源码
 _doman_src/
+_omentools_src/
 
 # 诊断工具
 _ilprobe/
