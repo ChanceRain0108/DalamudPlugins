@@ -27,3 +27,10 @@ test_mortal_protocol.py
 mortal_env/
 mortal_env.zip
 latest.zip
+
+# 参考源码（不发布）
+_autoduty_src/
+_dailyroutines_src/
+_dailyroutines_official/
+_cfsrc/
+match_server.py
